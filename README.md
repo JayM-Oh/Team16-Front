@@ -9,7 +9,7 @@
 ## 💻 설치 방법
 ```
 pip start streamlit
-```ㄹ
+```
 
 ## 🛠 기술 스택
 - FE : Python3, streamlit
